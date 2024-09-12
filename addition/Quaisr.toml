@@ -1,0 +1,10 @@
+name = 'addition'
+description = 'A quaisr block that performs addition between two numbers.'
+version = '0.1.0'
+authors = ["Roma Klapaukh<roma@quaisr.io>"]
+keywords = []
+categories = ["Arithmetic"]
+
+[language]
+name = 'Python'
+version = '3.10'
